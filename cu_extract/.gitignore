@@ -1,0 +1,8 @@
+cu_extract
+cu_load
+*.ptx
+*.lst
+*.error
+*.info
+cublas_11.0/
+a.out

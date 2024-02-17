@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "./merge_two_csv.py", line 11, in <module>
+    with open(file1, "r") as file1_csv:
+FileNotFoundError: [Errno 2] No such file or directory: 'regUsageModified.csv'

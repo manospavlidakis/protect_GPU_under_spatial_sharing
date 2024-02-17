@@ -1,0 +1,577 @@
+{ "75": {
+   "arax_controller.1.sm_75.ptx": [
+      {
+        "name": "_Z9addkernelPi",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "_Z10addkernel2v",
+        "params": []
+      }
+    ],  
+    "cu_bfs.1.sm_75.ptx": [
+      {
+        "name": "Kernel",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ],
+    "cu_bfs.2.sm_75.ptx": [
+      {
+        "name": "Kernel2",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ], 
+    "cu_gaussian.1.sm_75.ptx": [
+      {
+        "name": "_Z4Fan1PfS_ii",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      },
+      {
+        "name": "_Z4Fan2PfS_S_iii",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ], 
+    "cu_hotspot3D.1.sm_75.ptx": [
+      {
+        "name": "_Z11hotspotOpt1PfS_S_fiiifffffff",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ], 
+    "cu_hotspot.1.sm_75.ptx": [
+      {
+        "name": "_Z14calculate_tempiPfS_S_iiiiffffff",
+        "params": [
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ], 
+    "cu_lavamd.2.sm_75.ptx": [
+      {
+        "name": "kernel_gpu_cuda",
+        "params": [
+          {
+            "align": 8,
+            "size": 8
+          },
+          {
+            "align": 8,
+            "size": 56
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          }
+        ]
+      }
+    ], 
+    "cu_nn.1.sm_75.ptx": [
+      {
+        "name": "_Z6euclidP7latLongPfiff",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ], 
+    "cu_nw.1.sm_75.ptx": [
+      {
+        "name": "_Z20needle_cuda_shared_1PiS_iiii",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      },
+      {
+        "name": "_Z20needle_cuda_shared_2PiS_iiii",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ],
+    "cu_particle_float.1.sm_75.ptx": [
+      {
+        "name": "_Z17find_index_kernelPdS_S_S_S_S_S_i",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      },
+      {
+        "name": "_Z24normalize_weights_kernelPdiS_S_S_Pi",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "_Z10sum_kernelPdi",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      },
+      {
+        "name": "_Z17likelihood_kernelPdS_S_S_S_PiS0_S_PhS_S_iiiiiiS0_S_",
+        "params": [
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          }
+        ]
+      }
+    ], 
+    "cu_pathfinder.1.sm_75.ptx": [
+      {
+        "name": "_Z14dynproc_kerneliPiS_S_iiii",
+        "params": [
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 8
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          },
+          {
+            "align": 1,
+            "size": 4
+          }
+        ]
+      }
+    ]
+  }
+}
